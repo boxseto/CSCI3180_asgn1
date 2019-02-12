@@ -1,0 +1,4 @@
+[box@localhost fortran]$ rm monthly-attendancefor.txt temp.txt summaryfor.txt 
+[box@localhost fortran]$ gfortran -o atd atd.for 
+[box@localhost fortran]$ ./atd employees.txt attendance.txt monthly-attendance.txt
+

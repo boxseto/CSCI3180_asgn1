@@ -1,0 +1,13 @@
+Daily Attendance Summary
+Date: September 29, 2018
+Staff-ID Name                            Department Status
+--------------------------------------------------------------
+1023     CHAN       TAI MAN              ITD        LATE      
+1024     WONG       SIU MING             ITD        ABSENT    
+1025     A123456789 B1234567890123456789 ITD        SUSPICIOUS
+1026     PAN        PETER                HRD        PRESENT   
+--------------------------------------------------------------
+Number of Presences:    1
+Number of Absences:    1
+Number of Late Arrivals:    1
+Number of Suspicious Records:    1
